@@ -47,4 +47,5 @@ apt-utils \
   zlib1g-dev \
   yum \
   libX11-dev libXpm-dev libXft-dev libXext-dev \
-  asciidoc
+  asciidoc \
+  htop
