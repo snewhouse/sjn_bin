@@ -48,4 +48,5 @@ apt-utils \
   yum \
   libX11-dev libXpm-dev libXft-dev libXext-dev \
   asciidoc \
-  htop
+  htop \
+  lsb-core
