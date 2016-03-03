@@ -1,7 +1,7 @@
 #!/bin/bash
-sudo apt-get install lxc wget bsdtar curl
-sudo apt-get install linux-image-extra-$(uname -r)
-sudo modprobe aufs
+sudo apt-get install lxc wget bsdtar curl;
+sudo apt-get install linux-image-extra-$(uname -r);
+sudo modprobe aufs;
 
 # install the latest version of Docker with curl:
 function install_docker_latest(){
